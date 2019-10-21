@@ -6,7 +6,7 @@ def using_while
    puts 'Wingardium Leviosa' while the levitation_force is incremented to 10 do 
     looping_string = "Wingardium Leviosa" 
    end
-   #=> nil (return value)
+  
  end 
 
 
